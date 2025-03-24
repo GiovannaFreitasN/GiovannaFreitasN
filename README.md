@@ -1,6 +1,5 @@
 ## Olá 👋
 perfil está em manutenção
-COCÔ
 <!--
 **GiovannaFreitasN/GiovannaFreitasN** é um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
