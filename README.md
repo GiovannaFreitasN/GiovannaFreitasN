@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi 👋, I'm GiovannaFreitasN</h2>
-<h3 align="center">A passionate Data Science studant and developer from Brazil</h3>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h3 align="left">Languages and Tools:</h3>
