@@ -1,16 +1,26 @@
-## Olá 👋
-perfil está em manutenção
-<!--
-**GiovannaFreitasN/GiovannaFreitasN** é um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+<h1 alinhar="centro">Olá 👋, sou GiovannaFreitasN</h1>
+<h3 alinhar="centro">Um estudioso e desenvolvedor apaixonado de Data Science do Brasil</h3>
 
-Aqui estão algo ideias para você começar:
+<p alinhar="esquerda"> <img src="https://komarev.com/ghpvc/?username=giovannafreitasn&rótulo=Perfil%20views&color=0e75b6&estilo=flat" alt="giovannafreitasn" /> </p>
 
--🔭 Estou trabalhando atualmente em...
-- 🌱 Estou aprendendo atualmente...
--👯 Estou procurando colaboraaprofile está em manutenção em...
--🤔 Estou procurando ajuda com...
-- 💬 Pergunte-me sobre...
-- 📫 Como chegar até mim:...
-- Pronomos 😄:...
-- ⚡ Curiosidade:...
--->
+<p alinhar="esquerda"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giovannafreitasn" alt="giovannafreitasn" /></a> </p>
+
+- 🔭 Estou procurando atualmente **um trabalho!**
+
+<h3 alinhar="esquerda">Conecte-se comigo:</h3>
+<p alinhar="esquerda">
+<a href="https://dev.to/https://dev.to/giovannafreitasn" alvo="em branco"><img alinhar="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/giovannafreitasn" alta="30" largura="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/giovanna-freitas-n%c3%b3brega-706b31298?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bgncgjediqtmkr4naaqgpdq%3d%3d" alvo="em branco"><img alinhar="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giovanna-freitas-n%c3%b3brega-706b31298?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bgncgjediqtmkr4naaqgpdq%3d%3d" alta="30" largura="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/giovannafnobrega" alvo="em branco"><img alinhar="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/giovannafnobrega" alta="30" largura="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/giovannafreitasn/" alvo="em branco"><img alinhar="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/giovannafreitasn/" alta="30" largura="40" /></a>
+<a href="https://discord.gg/403711346107088897" alvo="em branco"><img alinhar="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="403711346107088897" alta="30" largura="40" /></a>
+</p>
+
+<h3 alinhar="esquerda">Idiomas e ferramentas:</h3>
+<p alinhar="esquerda"> <a href="https://azure.microsoft.com/en-in/" alvo="_em branco" rel="norreferidor"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azul" largura="40" alta="40"/> </a> <a href="https://www.gnu.org/software/bash/" alvo="_em branco" rel="norreferidor"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" largura="40" alta="40"/> </a> <a href="https://www.w3schools.com/cpp/" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" largura="40" alta="40"/> </a> <a href="https://www.w3schools.com/css/" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" largura="40" alta="40"/> </a> <a href="https://www.docker.com/" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" largura="40" alta="40"/> </a> <a href="https://git-scm.com/" alvo="_em branco" rel="norreferidor"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" largura="40" alta="40"/> </a> <a href="https://www.w3.org/html/" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largura="40" alta="40"/> </a> <a href="https://www.java.com" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" largura="40" alta="40"/> </a> <a href="https://www.linux.org/" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" largura="40" alta="40"/> </a> <a href="https://www.mysql.com/" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" largura="40" alta="40"/> </a> <a href="https://pandas.pydata.org/" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" largura="40" alta="40"/> </a> <a href="https://www.photoshop.com/en" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="fotoshop" largura="40" alta="40"/> </a> <a href="https://www.postgresql.org" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" largura="40" alta="40"/> </a> <a href="https://www.python.org" alvo="_em branco" rel="norreferidor"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" largura="40" alta="40"/> </a> </p>
+
+<p><img alinhar="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannafreitasn&mostrar_icons=true&localidade=en&layout=compacto" alt="giovannafreitasn" /></p>
+
+<p>&nbsp;<img alinhar="centro" src="https://github-readme-stats.vercel.app/api?username=giovannafreitasn&mostrar_icons=true&localidade=en" alt="giovannafreitasn" /></p>
+
+<p><img alinhar="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=giovannafreitasn&" alt="giovannafreitasn" /></p>
