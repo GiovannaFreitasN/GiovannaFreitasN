@@ -7,7 +7,7 @@
 ###🔭 Atualmente **não** estou trabalhando.
 
 ### 🌱 Estou aprendendo:  
-**R, SQL, Inferência Estatística, IA, Docker**
+**R, SQL, Inferência Estatística, IA**
 
 ### 💬 Pergunte-me sobre:  
 **Python, Java, C++, Linux**
