@@ -1,7 +1,8 @@
 # 👋 Olá! Eu sou GiovannaFreitasN
+
 <img src="https://raw.githubusercontent.com/Micaelb.com/GiovannaFreitasNliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### <center>💻 Graduanda em Ciência de Dados | 🚀 Entusiasta de Tecnologia | 🧠 Sempre aprendendo </center>
+💻 Graduanda em Ciência de Dados | 🚀 Entusiasta de Tecnologia | 🧠 Sempre aprendendo </center>
 
 ---
 
