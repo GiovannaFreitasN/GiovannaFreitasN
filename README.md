@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Stats
 
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannaFreitasN&show_icons=true&theme=radical)
+![GiovannaFreitasN GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannaFreitasN&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaFreitasN&layout=compact&theme=radical)
 
 ---
