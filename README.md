@@ -1,24 +1,22 @@
 # 👋 Olá! Eu sou GiovannaFreitasN
 <img src="https://raw.githubusercontent.com/Micaelb.com/GiovannaFreitasNliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-💻 Graduanda em Ciência de Dados | 🚀 Entusiasta de Tecnologia | 🧠 Sempre aprendendo
+
+### 💻 Graduanda em Ciência de Dados | 🚀 Entusiasta de Tecnologia | 🧠 Sempre aprendendo
 
 ---
 
-🔭 Atualmente **não** estou trabalhando.
+###🔭 Atualmente **não** estou trabalhando.
 
-🌱 Estou aprendendo:  
+### 🌱 Estou aprendendo:  
 **R, SQL, Inferência Estatística, IA, Docker**
 
-💬 Pergunte-me sobre:  
+### 💬 Pergunte-me sobre:  
 **Python, Java, C++, Linux**
 
-📫 Como me encontrar:
+### 📫 Como me encontrar:
 - Email: [giovannafnobrega@gmail.com](giovannafnobrega@gmail.com)
 - LinkedIn: [www.linkedin.com/in/giovanna-freitas-nóbrega-706b31298](www.linkedin.com/in/giovanna-freitas-nóbrega-706b31298)
 - Portfólio: **Em construção**
-
-⚡ Curiosidade:  
-
 
 ---
 
@@ -32,13 +30,23 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
+---
+
+### 🏅 Cursos e Certificados
+
+| Curso    | Plataforma | Status | 
+| -------- | ---------- | ------ |
+| Linux Completo + Servidores | Udemy | Em andamento |
+| Suporte e manutenção de Computadores | Centec | Concluído |
+| Montador/Reparador de Computadores | SENAC | Concluído |
+
+
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannaFreitasN&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaFreitasN&layout=compact&theme=radical)
 
 ---
@@ -46,10 +54,6 @@
 ### 🧠 Frase do Dia
 
 > "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier
-
----
-
-### ✨ Obrigado por visitar meu perfil!
 
 
 
