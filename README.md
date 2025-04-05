@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou GiovannaFreitasN
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/Micaelb.com/GiovannaFreitasNliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 💻 Graduanda em Ciência de Dados | 🚀 Entusiasta de Tecnologia | 🧠 Sempre aprendendo
 
 ---
@@ -12,10 +12,10 @@
 💬 Pergunte-me sobre:  
 **Python, Java, C++, Linux**
 
-> 📫 Como me encontrar:  
-> - Email: [giovannafnobrega@gmail.com]
-> - LinkedIn: [www.linkedin.com/in/giovanna-freitas-nóbrega-706b31298](www.linkedin.com/in/giovanna-freitas-nóbrega-706b31298)
-> - Portfólio: **Em construção**
+📫 Como me encontrar:
+- Email: [giovannafnobrega@gmail.com](giovannafnobrega@gmail.com)
+- LinkedIn: [www.linkedin.com/in/giovanna-freitas-nóbrega-706b31298](www.linkedin.com/in/giovanna-freitas-nóbrega-706b31298)
+- Portfólio: **Em construção**
 
 ⚡ Curiosidade:  
 
