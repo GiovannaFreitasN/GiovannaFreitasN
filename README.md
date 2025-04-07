@@ -4,7 +4,7 @@
 
 ---
 
-###🔭 Atualmente **não** estou trabalhando.
+### 🔭 Atualmente **não** estou trabalhando.
 
 ### 🌱 Estou aprendendo:  
 **R, SQL, Inferência Estatística, IA**
